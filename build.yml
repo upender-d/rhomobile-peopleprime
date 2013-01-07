@@ -1,0 +1,24 @@
+#sdk: "C:/MotorolaRhoMobileSuite2.1.1.7/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.4.2"
+sdkversion: 3.4.0
+name: rhomobile-peopleprime
+version: 1.0
+vendor: rhomobile
+build: debug
+bbver: 4.6
+applog: rholog.txt
+iphone:
+  configuration: Release
+  sdk: iphonesimulator5.0
+  provisionprofile:
+  codesignidentity:
+  entitlements:
+  BundleIdentifier: com.rhomobile.rhomobile-peopleprime
+  BundleURLScheme: rhomobile-peopleprime
+wp:
+  productid: 'c2be72b0-3ae4-0130-b5af-4417fed5ada3'
+symbian:
+  uid: '0xe2db83fd'
+android:
+  version: 2.1
+
+extensions: ["json", "another-extension"]
