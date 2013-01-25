@@ -1,11 +1,12 @@
 # startup page for your application
-start_path = '/app/Sessions'
+#start_path = '/app/Sessions'
+start_path = '/app'
 
 # path to the options page (in this case handled by javascript)
 options_path = '/app/Settings'
 
 # RESTful services url
-RESTFUL_URL = "http://192.168.1.22:3000/api/v1/"
+RESTFUL_URL = "http://192.168.0.103:3000/api/v1/"
 
 # location of bundle url (i.e. from rhohub.com); used by desktop win32 simulator
 rhobundle_zip_url = ''

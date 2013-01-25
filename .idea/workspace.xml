@@ -2,8 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83819849-9380-4c4c-b772-e7166889b787" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Settings/controller.rb" afterPath="$PROJECT_DIR$/app/Settings/controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.yml" afterPath="$PROJECT_DIR$/build.yml" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css\android.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css\blackberry.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css\iphone.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css\jqmobile-patch.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css\re_webkit.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css\re_webkit_flat.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css\windows_mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css\windows_phone7.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\IUI_LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\android\btn_check_off.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\android\btn_check_on.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\android\btn_radio_off.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\android\btn_radio_on.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\android\disclosure.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\android\ic_menu_more.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\backButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\blueButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\grayButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\disclosure.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\disclosure_detail.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\backButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\blueButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\chevron.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\grayButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\listArrowSel.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\listGroup.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\on_off.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\pinstripes.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\selection.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\toggle.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\toggleOn.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\toolButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\toolbar.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\jqtouch\whiteButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\radiobutton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\select.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iphone\switch.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\iui-logo-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\listArrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\listArrowDown.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\listArrowSel.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\listGroup.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\pinstripes.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\right_button.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\selection.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\toggle.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\toggleOn.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\toolButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\toolButton_new.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\toolbar.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images\whiteButton.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\images\ajax-loader.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\images\icons-18-black.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\images\icons-18-white.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\images\icons-36-black.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\images\icons-36-white.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\jquery.mobile-1.0.1.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\jquery.mobile-1.0.1.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\jquery.mobile-1.0.1.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\jquery.mobile-1.0.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\jquery.mobile.structure-1.0.1.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jqmobile\jquery.mobile.structure-1.0.1.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jquery\jquery-1.6.4.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jquery\jquery-1.6.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jquery\jquery.json-2.3.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\jquery\jquery.json-2.3.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/loading.png" afterPath="$PROJECT_DIR$/app/loading.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rhosimulator/WebpageIcons.db" afterPath="$PROJECT_DIR$/rhosimulator/WebpageIcons.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.erb" afterPath="$PROJECT_DIR$/app/index.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/layout.erb" afterPath="$PROJECT_DIR$/app/layout.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rhoconfig.txt" afterPath="$PROJECT_DIR$/rhoconfig.txt" />
     </list>
     <ignored path="rhomobile-peopleprime.iws" />
@@ -23,10 +98,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="rhoconfig.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/layout.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="39" selection-start="412" selection-end="412" vertical-scroll-proportion="0.28385898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="41" selection-start="844" selection-end="844" vertical-scroll-proportion="-8.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-1.7.2.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/jquery-1.7.2.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="29608" selection-start="94847" selection-end="94847" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1359096267910" expanded="false" signature="17421:17452" placeholder="..." />
+                <marker date="1359096267910" expanded="false" signature="20576:20586" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rhoconfig.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rhoconfig.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="39" selection-start="207" selection-end="224" vertical-scroll-proportion="-1.1080618">
+            <state line="12" column="30" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -44,25 +150,7 @@
       <file leaf-file-name="controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Settings/controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="46" selection-start="571" selection-end="602" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Sessions/sessions_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="69" selection-start="635" selection-end="646" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="59" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+            <state line="45" column="98" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -81,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/rhoconfig.txt" />
         <option value="$PROJECT_DIR$/app/Requisition/requisition_controller.rb" />
         <option value="$PROJECT_DIR$/app/Settings/controller.rb" />
         <option value="$PROJECT_DIR$/app/Sessions/error.erb" />
@@ -89,14 +176,21 @@
         <option value="$PROJECT_DIR$/app/Sessions/wait.erb" />
         <option value="$PROJECT_DIR$/app/Sessions/sessions_controller.rb" />
         <option value="$PROJECT_DIR$/rhosimulator/rholog.txt" />
+        <option value="$PROJECT_DIR$/public/jquery.js" />
+        <option value="$PROJECT_DIR$/public/jquery-1.0.9.min.js" />
+        <option value="$PROJECT_DIR$/public/jquery-1.9.0.min.js" />
+        <option value="$PROJECT_DIR$/app/index.erb" />
+        <option value="$PROJECT_DIR$/rhoconfig.txt" />
+        <option value="$PROJECT_DIR$/public/jquery-1.7.2.min.js" />
+        <option value="$PROJECT_DIR$/app/layout.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -124,7 +218,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,7 +246,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -170,18 +263,24 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sessions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RubyMineWorkspace/peopleprime" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public" />
+      <recent name="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\RhoMobileWorkspace\rhomobile-peopleprime\public\css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -254,7 +353,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -262,7 +361,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2575988" sideWeight="0.67105263" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2642089" sideWeight="0.67105263" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -330,55 +429,65 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rhosimulator/rholog.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="239" column="77" selection-start="41685" selection-end="41685" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Sessions/sessions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Sessions/wait.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/net/telnet.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="722" column="8" selection-start="31428" selection-end="31428" vertical-scroll-proportion="-0.39965695" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Sessions/index.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Sessions/error.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="24" selection-start="183" selection-end="186" vertical-scroll-proportion="0.24416517" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rhosimulator/rholog.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="36" selection-start="32951" selection-end="33099" vertical-scroll-proportion="0.5964912">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Settings/controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="46" selection-start="571" selection-end="602" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="59" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+        <state line="13" column="59" selection-start="340" selection-end="340" vertical-scroll-proportion="0.37907377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sessions/sessions_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="69" selection-start="635" selection-end="646" vertical-scroll-proportion="0.02915952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/jquery.mobile-1.2.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="40" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1349157204000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/jquery.mobile.theme-1.2.0.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="29" selection-start="187" selection-end="187" vertical-scroll-proportion="0.02982456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rhosimulator/rholog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="175" column="83" selection-start="34765" selection-end="34765" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/loading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/jquery.mobile.structure-1.2.0.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/jquery.mobile-1.2.0.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20778" selection-start="20932" selection-end="20936" vertical-scroll-proportion="0.03119266">
           <folding />
         </state>
       </provider>
@@ -390,16 +499,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Sessions/sessions_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/Settings/controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="69" selection-start="635" selection-end="646" vertical-scroll-proportion="0.0">
+        <state line="45" column="98" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/loading.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rhoconfig.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="39" selection-start="207" selection-end="224" vertical-scroll-proportion="-1.1080618">
+        <state line="12" column="30" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="41" selection-start="844" selection-end="844" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/jquery-1.7.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29608" selection-start="94847" selection-end="94847" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1359096267910" expanded="false" signature="17421:17452" placeholder="..." />
+            <marker date="1359096267910" expanded="false" signature="20576:20586" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="39" selection-start="412" selection-end="412" vertical-scroll-proportion="0.28385898">
           <folding />
         </state>
       </provider>
