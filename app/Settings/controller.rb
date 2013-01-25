@@ -36,6 +36,7 @@ class SettingsController < Rho::RhoController
   end
 
   def do_login
+   # RhoLog.info("Some Categoryc ###################", "Some info message###########################")
     if @params['login'] and @params['password']
       begin
         SyncEngine.login(@params['login'], @params['password'], (url_for :action => :login_callback) )
