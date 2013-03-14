@@ -1,12 +1,19 @@
 
-
-<div data-role="page" data-rho-wait-page="true">
-
-  <div data-role="header" data-position="inline">
-    <h1>Wait</h1>
+<div data-role="page" id="page1" data-rho-wait-page="true">
+  <div data-theme="b" data-role="header">
+    <a data-role="button" href="/app" data-icon="back" data-iconpos="left" class="ui-btn-right">
+      Back
+    </a>
+    <a data-role="button" href="/app" data-icon="home" data-iconpos="left" class="ui-btn-left">
+      Home
+    </a>
+    <h3>
+      Wait
+    </h3>
   </div>
-
   <div data-role="content">
+    <div style="text-align: center;margin: 50px;">
+      <img src="/public/images/ajax-loader.gif" alt="Please wait ..." />
+    </div>
   </div>
-
 </div>

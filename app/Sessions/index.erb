@@ -1,24 +1,37 @@
-<div data-role="page" data-add-back-btn="true">
-
-  <div data-role="header" data-position="inline">
-    <h1>Login</h1>
+<div data-role="page" id="page1">
+  <div data-theme="b" data-role="header">
+    <a data-role="button" href="#page1" data-icon="back" data-iconpos="left" class="ui-btn-right">
+      Back
+    </a>
+    <a data-role="button" href="#page1" data-icon="home" data-iconpos="left" class="ui-btn-left">
+      Home
+    </a>
+    <h3>
+      Login
+    </h3>
   </div>
-
   <div data-role="content">
     <form method="POST" action="<%= url_for :action => :do_login %>">
       <% if @msg %>
           <div class="error-message"><%= @msg %></div>
       <% end %>
-
       <div data-role="fieldcontain">
-        <label for="login" class="itemLabel">Login</label>
-        <input type="text" id="login" name="login" class="itemValue" <%= placeholder("Login") %> />
+        <fieldset data-role="controlgroup">
+          <label for="email">
+            Email
+          </label>
+          <input name="login" id="login" placeholder="email" value="" type="email" />
+        </fieldset>
       </div>
       <div data-role="fieldcontain">
-        <label for="password">Password</label>
-        <input type="password" id="password" name="password" class="itemValue" <%= placeholder("Password") %> />
+        <fieldset data-role="controlgroup">
+          <label for="password">
+            Password
+          </label>
+          <input name="password" id="password" placeholder="password" value="" type="password" />
+        </fieldset>
       </div>
-      <input type="submit" value="Login"/>
+      <input type="submit" data-theme="c" data-icon="arrow-r" data-iconpos="right" value="Login" />
     </form>
   </div>
 

@@ -47,7 +47,7 @@ class SessionsController < Rho::RhoController
     puts "-----> httpget_callback: #{@params}"
     puts "########## REspone : #{@params['body']}"
     puts "########## Message : #{@params['body'][0]['message']}"
-    
+
     if @params['status'] != 'ok'
       @@error_params = @params
      # WebView.navigate ( url_for :action => :show_error )
